@@ -11,9 +11,8 @@ def second_challenge
 
 
   #code your solution here!
-new_line = ""
+ new_array = 
   new_line = groceries.values
-  new_line = new_line.join(", ")
   return new_line
 
 
