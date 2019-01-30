@@ -11,7 +11,9 @@ def second_challenge
 
 
   #code your solution here!
-  groceries.values
+new_line = ""
+  new_line = groceries.values
+  return new_line
 
 
 end
