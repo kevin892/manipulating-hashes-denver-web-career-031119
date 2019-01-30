@@ -13,6 +13,7 @@ def second_challenge
   #code your solution here!
 new_line = ""
   new_line = groceries.values
+  new_line = new_line[1]
   return new_line
 
 
