@@ -11,8 +11,17 @@ def second_challenge
 
 
   #code your solution here!
- new_array =
-  new_line = groceries.values
+ new_array = []
+ a=[]
+ b=[]
+ c=[]
+  new_array = groceries.values
+  a = new_array[0]
+  b= new_array[1]
+  c= new_array[2]
+  a.concat(b)
+  a.concat(c)
+  new_line.push(a)
   return new_line
 
 
