@@ -15,12 +15,15 @@ def second_challenge
  a=[]
  b=[]
  c=[]
+ d=[]
   new_array = groceries.values
   a = new_array[0]
-  b= new_array[1]
-  c= new_array[2]
+  b = new_array[1]
+  c = new_array[2]
+  d = new_array[3]
   a.concat(b)
   a.concat(c)
+  a.concat(d)
   new_array = a
   return new_array
 
