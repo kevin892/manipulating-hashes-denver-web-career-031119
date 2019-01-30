@@ -21,8 +21,8 @@ contacts.each do |person, data|
         flavor == "strawberry"
 
   #remember to return your newly altered contacts hash!
-  contacts
 end
 end
 end
+return contacts 
 end
