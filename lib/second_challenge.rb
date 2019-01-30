@@ -11,7 +11,7 @@ def second_challenge
 
 
   #code your solution here!
-  groceries.values
+  groceries.values[0][1][2]
 
 
 end
