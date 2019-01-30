@@ -21,8 +21,8 @@ def second_challenge
   c= new_array[2]
   a.concat(b)
   a.concat(c)
-  new_line = a
-  return new_line
+  new_array = a
+  return new_array
 
 
 end
