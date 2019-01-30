@@ -11,7 +11,7 @@ def second_challenge
 
 
   #code your solution here!
- new_array = 
+ new_array =
   new_line = groceries.values
   return new_line
 
